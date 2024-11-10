@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Teaching Assistant for [CS90](https://onlinecourses.nptel.ac.in/noc24_cs90/preview): Social Network Analysis (Monsoon 2024), National Programme on Technology Enhanced Learning (NPTEL), India
+- Teaching Assistant for [CSE641](https://techtree.iiitd.edu.in/viewDescription/filename?=ECE553): Deep Learning (Winter 2022), IIIT-Delhi, India
+- Teaching Assistant for [CSE556](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE556): Natural Language Processing (Monsoon 2022), IIIT-Delhi, India
