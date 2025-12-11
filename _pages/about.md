@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher  | <a href='https://www.mpi-sp.org//'>MPI-SP, Germany</a>
+subtitle: Postdoctoral Researcher  | <a href='https://www.mpi-sp.org/'>MPI-SP, Germany</a>
 
 profile:
   align: right
